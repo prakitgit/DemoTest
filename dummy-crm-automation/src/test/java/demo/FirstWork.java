@@ -6,6 +6,8 @@ public class FirstWork {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This Is my Fierst Program");
+		System.out.println("This Is my Second Program");
+		
 	}
 
 }
